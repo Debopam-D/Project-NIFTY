@@ -937,19 +937,7 @@ PROJECT NIFTY/
 └── Phase 12 - Final Report/
     └── NSE_IPO_Final_Report.docx
 
-Project Status
 
-Current completion: Phases 1–10
-
-The analytical core of the IPO case study is complete.
-
-The remaining work is to convert the analysis into:
-
-A 15-slide investment-banking-style presentation
-
-A 40–60 page consolidated IPO report
-
-Final cross-checking of all numbers, sources, assumptions and terminology before submission.
 
 Disclaimer
 
