@@ -4,9 +4,6 @@ Overview
 
 Project NIFTY is an investment-banking-style academic IPO case study of National Stock Exchange of India Limited (NSE).
 
-The objective is to build a complete IPO analysis similar in structure to the work prepared by an investment bank for a prospective listing. The project combines company research, industry analysis, financial modelling, strategic analysis, valuation, IPO structuring, a simplified DRHP, book-building simulation, listing simulation and an investment recommendation.
-
-Important: This is an academic / illustrative case study and is not investment advice, an offer to buy or sell securities, or an actual NSE IPO forecast.
 
 Project Objectives
 
